@@ -16,3 +16,6 @@ to run the server
 ```
 python run_keras_server.py 
 ```
+
+### Resources
+https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
